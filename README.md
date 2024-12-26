@@ -98,6 +98,13 @@ RegisterNumber:24002208
 
 ![WhatsApp Image 2024-12-22 at 23 40 52_f5f0c2fa](https://github.com/user-attachments/assets/dae9d661-7d76-4076-952f-b100454db550)
 
+**Truth Table**
+![exp 3 truth](https://github.com/user-attachments/assets/049a4b83-2037-4461-be5b-704c99a44f0b)
+![image](https://github.com/user-attachments/assets/7fffd7bf-3591-4723-babb-bda0e1f83dae)
+
+
+
+
 **Result:**
 
 A half adder and half subtractor circuit is verified its truth table in Quartus using Verilog programming.
